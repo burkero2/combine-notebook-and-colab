@@ -1,10 +1,11 @@
-# unit-test-example with jupyter notebook
+# unit test example with jupyter notebook
 
 * how to create a notebook?
 * how to run a notebook at colab?
 * how to connect a colab session to the repo? (so you can push files and save notebook changes)
-    * how to push a file from colab session to repo?
-    * how to save a notebook at colab?
+   * in reality we are providing a notebook template with the code for cloning/connecting, the student would copy and past this template and rename it
+   * how to push a file from colab session to repo?
+   * how to save a notebook at colab?
 * see lesson format example
    * for a lesson we wouldnt need to clone the repo and connect the session to the repo, since to save the notebook you just go to file -> save
 * see lesson content
