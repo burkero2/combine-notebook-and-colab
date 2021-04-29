@@ -6,8 +6,10 @@
     * how to push a file from colab session to repo?
     * how to save a notebook at colab?
 * see lesson format example
-* see numpy basic functions
+   * for a lesson we wouldnt need to clone the repo and connect the session to the repo, since to save the notebook you just go to file -> save
+* see lesson content
 * see challenge section and discuss how to unit test
+   * open notebook as raw file and look for "challenges" cell
 
 
 # Jupyter notebook
