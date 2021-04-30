@@ -15,6 +15,10 @@
 
 
 # Google colab
+
+<img src="https://i.stack.imgur.com/TxnUX.png" width="60%" height="60%" />
+
+
 * Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows you to run jupyter notebook, so you can write and **execute python live code** in the browser.
 * It is especially well suited to machine learning, data analysis and education.
 * Offers GPU and TPU
